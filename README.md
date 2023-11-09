@@ -1,4 +1,4 @@
-# Weather App Using React JS
+# Weather App Using React J
 
 # Getting Started with Create React App
 
