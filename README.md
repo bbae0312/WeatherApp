@@ -88,5 +88,12 @@ A straightforward weather application built with React JS, allowing users to ret
    ```sh
    git clone https://github.com/<your-username>/weather-app.git
    cd weather-app
+2. **npm install**
+3. **npm start**
+
+## Contributing
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page for ways to contribute.
+
+
 
 
